@@ -12,7 +12,7 @@
 	<artifactId>bridgelabz</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>my-first-spring-app</name>
-	<description>Simple Helloworld project for Spring Boot</description>
+	<description>Simple HelloWorld project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
